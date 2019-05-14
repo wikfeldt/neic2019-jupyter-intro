@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wikfeldt/neic2019-jupyter-intro/master)
+
 # What are Jupyter Notebooks?
 
 This is a brief introduction to Jupyter Notebooks and how they 
